@@ -1,2 +1,2 @@
 # code-wars-challenge
-daily code wars!
+daily js code wars!
