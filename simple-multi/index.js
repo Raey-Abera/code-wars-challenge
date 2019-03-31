@@ -10,6 +10,7 @@ function simpleMultiplication(number) {
     return prod
 }
 
+
 // Test.describe("Basic Tests", function(){
 //   Test.assertEquals(simpleMultiplication(2),16,'Should return given argument times eight...')
 //   Test.assertEquals(simpleMultiplication(1),9,'Should return given argument times nine...')
