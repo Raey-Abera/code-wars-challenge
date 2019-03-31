@@ -11,6 +11,7 @@
   //false, false, true,  true]
 //The correct answer would be 17
 //Hint: Don't forget to check for bad values like null/undefined
+
 function countSheeps(arrayOfSheep) {
   // TODO May the force be with you
   let num = 0;//counter
