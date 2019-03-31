@@ -2,6 +2,7 @@
 
 //Example: The binary representation of 1234 is 10011010010, so the function should return 5 in this case
 
+
 let countBits = function(n) {
   // Program Me
   let x= n.toString(2)// base two returned
